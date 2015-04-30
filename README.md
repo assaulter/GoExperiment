@@ -8,6 +8,17 @@ $ go version
 go version go1.4.2 darwin/amd64
 ```
 
+## エディタ関係
+Mac + Atomでの開発を想定
+
+```
+$ apm install autocomplete-plus go-plus
+```
+
+## チュートリアル
+[チュートリアル](http://go-tour-jp.appspot.com/#1)
+ここでまず文法に慣れる。
+
 ## Hello, World
 
 origin/helloworld
