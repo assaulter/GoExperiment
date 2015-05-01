@@ -86,6 +86,10 @@ mapがいわゆるhashなのと、strings.Fieldsの使い方。
 ### 50, Methods
 goにはclassが無い...
 
+ここでは、構造体(struct)に、メソッドを定義する方法を学ぶ。
+
+methods.goを参照のこと。
+
 
 
 ## Hello, World
