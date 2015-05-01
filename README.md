@@ -19,6 +19,13 @@ $ apm install autocomplete-plus go-plus
 [チュートリアル](http://go-tour-jp.appspot.com/#1)
 ここでまず文法に慣れる。
 
+### 41, wordcount
+wordcount.goを見る。
+
+mapがいわゆるhashなのと、strings.Fieldsの使い方。
+
+文字列そのものにメソッドがあるわけではない...
+
 ## Hello, World
 
 origin/helloworld
