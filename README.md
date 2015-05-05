@@ -90,7 +90,27 @@ goにはclassが無い...
 
 methods.goを参照のこと。
 
+## 51, Methods continued
+パッケージ内であれば、任意の型にもメソッドを追加できる。
 
+ただし、他パッケージや基本型にはできない。
+
+```
+type MyFloat float64
+
+func (f MyFloat) Abs() float64 {
+  ...
+}
+```
+
+## 52, Methods with pointer receivers
+methods_with_pointer.goを参照のこと
+
+## 53, Interfaces
+Interfaceのインプリの仕方がちょっと特殊
+
+## 57, Web Servers
+web_servers.goを実行してlocalhost:4000を見る
 
 ## Hello, World
 
