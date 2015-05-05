@@ -112,6 +112,9 @@ Interfaceのインプリの仕方がちょっと特殊
 ## 57, Web Servers
 web_servers.goを実行してlocalhost:4000を見る
 
+## ~68, gorutineの話
+簡単に使えそう...？
+
 ## Hello, World
 
 ```
