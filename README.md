@@ -94,8 +94,6 @@ methods.goを参照のこと。
 
 ## Hello, World
 
-origin/helloworld
-
 ```
 $ go build hello.go
 # helloという実行ファイルができる
